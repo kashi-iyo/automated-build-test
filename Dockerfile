@@ -1,2 +1,2 @@
 FROM kurawo/docker-whale
-ENV AUTHOR="kurawo"
+ENV AUTHOR="kashi-iyo"
